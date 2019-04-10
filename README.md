@@ -1,2 +1,2 @@
 # ML-Task
-My solutions for the IIIT-D Internship task
+My solutions for the IIIT-D MIDAS Lab Internship task
